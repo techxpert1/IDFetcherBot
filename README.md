@@ -39,6 +39,7 @@ bot.run("YOUR_TOKEN_HERE")
 With your actual Discord bot token in parentheses. You can get a token from the Steps below.
 
 How to Create Your Bot in Discord and Get a Token
+
 Go to https://discord.com/developers/applications
 
 Click New Application, name it, and go to the Bot tab
