@@ -14,9 +14,9 @@ This project is licensed for personal use only. Redistribution, resale, or publi
 
 To install the bot:
 
-Click the green Code button (above) and select Download ZIP
+Download the latest release from the releases tab.
 
-Extract the downloaded folder to your desktop or a known location
+Put the file in a known location
 
 This bot requires Python 3.9 or later and discord.py v2.x. You can install the required discord libraries using pip after you install Python:
 
@@ -24,10 +24,10 @@ pip install -U discord.py
 
 # Next
 
-Open bot.py and scroll to the bottom. Replace the line in the bot.py file:
+Open bot.py  in a text editor and scroll to the bottom. Replace the line in the bot.py file:
 
 bot.run("YOUR_TOKEN_HERE")
-With your actual Discord bot token. You can get a token from the Steps below.
+With your actual Discord bot token in parentheses. You can get a token from the Steps below.
 
 How to Create Your Bot in Discord and Get a Token
 Go to https://discord.com/developers/applications
