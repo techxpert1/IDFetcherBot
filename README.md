@@ -7,7 +7,7 @@ IDFetcherBot is a personal-use Discord bot that looks up user IDs, usernames, an
 
 This project is licensed for personal use only. Redistribution, resale, or public hosting is not allowed. See LICENSE.txt for full terms.
 
-## Add to your server using the official invite link (recomended)
+#### Add to your server using the official invite link (recomended)
 Just click on the link below:
 https://discord.com/oauth2/authorize?client_id=1390152622069252216&permissions=277025541120&integration_type=0&scope=applications.commands+bot
 
@@ -18,7 +18,7 @@ https://discord.com/oauth2/authorize?client_id=1390152622069252216&permissions=2
 Or just do a manual install as seen below (Takes longer, not recommended for beginers.
 
 
-First
+# First
 
 To install the bot:
 
@@ -30,7 +30,7 @@ This bot requires Python 3.9 or later and discord.py v2.x. You can install the r
 
 pip install -U discord.py
 
-Next
+# Next
 
 Open bot.py  in a text editor and scroll to the bottom. Replace the line in the bot.py file:
 
