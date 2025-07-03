@@ -1,0 +1,22 @@
+Custom License – No Distribution or Resale
+
+Copyright © 2025 techxpert1
+
+This software is provided for personal, educational, and non-commercial use only.
+
+You ARE permitted to:
+- Run the software on your own Discord account/server
+- View and modify the code for personal use only
+
+You are NOT permitted to:
+- Redistribute this code in whole or in part
+- Upload it to any public GitHub repository, bot listing service, or hosting platform
+- Sublicense, sell, rent, or otherwise commercialize this software
+- Claim authorship or remove attribution
+
+You must include this license in all local copies of the code.
+
+This software is provided “as is”, without any warranties or guarantees of any kind.
+By using this software, you agree to these terms.
+
+To request permission for any other use, contact: raineriddle8@gmail.com
