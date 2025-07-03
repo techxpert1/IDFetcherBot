@@ -84,6 +84,3 @@ You may not redistribute, resell, publish, or host this bot publicly without wri
 
 
 See LICENSE.txt for complete terms.
-
-Let me know if you’d like a hosted ZIP or GitHub release template version, or want to include .env file support instead of hardcoding the token.
-
