@@ -18,7 +18,7 @@ https://discord.com/oauth2/authorize?client_id=1390152622069252216&permissions=2
 Or just do a manual install as seen below (Takes longer, not recommended for beginers.
 
 
-# First
+# Or
 
 To install the bot:
 
