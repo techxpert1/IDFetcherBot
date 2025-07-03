@@ -35,6 +35,7 @@ pip install -U discord.py
 Open bot.py  in a text editor and scroll to the bottom. Replace the line in the bot.py file:
 
 bot.run("YOUR_TOKEN_HERE")
+
 With your actual Discord bot token in parentheses. You can get a token from the Steps below.
 
 How to Create Your Bot in Discord and Get a Token
