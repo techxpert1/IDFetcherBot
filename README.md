@@ -9,6 +9,7 @@ This project is licensed for personal use only. Redistribution, resale, or publi
 
 #### Add to your server using the official invite link (recomended)
 Just click on the link below:
+
 https://discord.com/oauth2/authorize?client_id=1390152622069252216&permissions=277025541120&integration_type=0&scope=applications.commands+bot
 
 
@@ -79,9 +80,13 @@ Or use the /idbot slash command and begin typing a user’s name
 Examples:
 
 !idbot @Mention
+
 !idbot Username
+
 !idbot DisplayName
+
 !idbot 123456789012345678
+
 The bot will respond with the user’s ID, username, and display name.
 
 ## License
