@@ -15,8 +15,7 @@ https://discord.com/oauth2/authorize?client_id=1390152622069252216&permissions=2
 
 
 
-
-Or just do a manual install as seen below (Takes longer, not recommended for beginers.
+You could also just do a manual install as seen below (Takes like a LOT longer and runs off your computer, not recommended for beginners.)
 
 
 # Or
